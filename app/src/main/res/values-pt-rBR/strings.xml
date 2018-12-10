@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OffTrail</string>
+    <string name="msg_splash">Carregando...</string>
+    <string name="text_login">Login</string>
+    <string name="text_exit">Sair</string>
+    <string name="etd_login">Entre com o login</string>
+    <string name="edt_senha">Entre com a senha</string>
+    <string name="edt_Idade">Digite a idade</string>
+    <string name="edt_Nome">Digite o nome</string>
+    <string name="Btn_Salvar">Salvar</string>
+    <string name="btn_Cancelar">Cancelar</string>
+</resources>

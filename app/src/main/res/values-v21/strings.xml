@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edt_Idade">Type Age</string>
+    <string name="edt_Nome">Type Name</string>
+    <string name="Btn_Salvar">Save</string>
+    <string name="btn_Cancelar">Cancel</string>
+</resources>
